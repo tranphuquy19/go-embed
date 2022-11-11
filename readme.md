@@ -2,6 +2,8 @@
 
 Embed executable file and execute it in memory.
 
+**Example**: https://replit.com/@tranphuquy19/go-embed#readme.md
+
 ## Usage
 
 1. Build hello-world binary file to test.
